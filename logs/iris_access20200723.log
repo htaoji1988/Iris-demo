@@ -1,0 +1,55 @@
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[INFO] 2020/07/23 10:32 200 1.0177ms ::1 GET / Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+[INFO] 2020/07/23 10:40 200 11.9936ms ::1 GET / Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+[INFO] 2020/07/23 10:40 200   0s ::1 GET /user/10 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+[INFO] 2020/07/23 10:40 200   0s ::1 GET /user/10 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+[INFO] 2020/07/23 10:40 200   0s ::1 GET /user/10 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+[INFO] 2020/07/23 10:40 200   0s ::1 GET /user/10 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+[INFO] 2020/07/23 10:40 200   0s ::1 GET /user/10 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+[INFO] 2020/07/23 10:59 200   0s ::1 GET /user/10 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[INFO] 2020/07/23 11:07 200   0s ::1 GET /user/10 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[INFO] 2020/07/23 14:31 200 9.9954ms ::1 GET / Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+[ERRO] 2020/07/23 14:33 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[ERRO] 2020/07/23 14:34 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[INFO] 2020/07/23 14:34 200 10.9942ms ::1 GET / Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+[ERRO] 2020/07/23 14:37 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[ERRO] 2020/07/23 14:39 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[ERRO] 2020/07/23 14:40 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[ERRO] 2020/07/23 14:41 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[ERRO] 2020/07/23 14:51 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[INFO] 2020/07/23 15:00 200 12.9925ms ::1 GET / Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+[INFO] 2020/07/23 15:01 200   0s ::1 GET / Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+[ERRO] 2020/07/23 15:01 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[INFO] 2020/07/23 15:01 200 6.9966ms ::1 GET / Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+[ERRO] 2020/07/23 17:06 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[ERRO] 2020/07/23 17:07 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
+[ERRO] 2020/07/23 17:20 http: Server closed
+Now listening on: http://localhost:8080
+Application started. Press CTRL+C to shut down.
