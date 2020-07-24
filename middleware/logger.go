@@ -1,7 +1,6 @@
-package settings
+package middleware
 
 import (
-	"github.com/kataras/iris/v12"
 	"github.com/kataras/iris/v12/context"
 	"github.com/kataras/iris/v12/middleware/logger"
 	"os"
@@ -45,13 +44,4 @@ func LogHandler() context.Handler {
 		MessageHeaderKeys: []string{"User-Agent"},
 	})
 	return customLogger
-}
-
-func GetConfigs() iris.Configuration {
-	configs := iris.Configuration{
-		DisableStartupLog:   false,
-		EnableOptimizations: true,
-		Charset:             "UTF-8",
-	}
-	return configs
 }

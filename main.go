@@ -5,7 +5,7 @@ import (
 	"github.com/kataras/iris/v12/cache"
 	"github.com/kataras/iris/v12/middleware/recover"
 	"io"
-	settings "iris-project/conf"
+	"iris-project/middleware"
 	"os"
 	"time"
 )
@@ -17,10 +17,10 @@ func main() {
 	app.Use(recover.New())
 
 	// 同时写文件日志与控制台日志
-	f := settings.NewLogFile()
+	f := middleware.NewLogFile()
 	defer f.Close()
 	app.Logger().SetOutput(io.MultiWriter(f, os.Stdout))
-	logConfig := settings.LogHandler()
+	logConfig := middleware.LogHandler()
 	app.Use(logConfig)
 
 	// Load all templates from the "./templates" folder
@@ -42,7 +42,7 @@ func main() {
 	})
 
 	// 从settings包里载入参数配置
-	config := iris.WithConfiguration(settings.GetConfigs())
+	config := iris.WithConfiguration(iris.TOML("./conf/iris.tml"))
 
 	app.Listen(":8080", config)
 	// Start the server using a network address.
